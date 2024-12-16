@@ -1,0 +1,12 @@
+1) отличие заключается в том, что demo варианте используется ещё ветка buttons, а в master эта ветка не подключена
+2) коммиты в удалённом репозитории:
+    1. buttons:
+        - boots
+        - fix readme
+    2. Boots:
+        - README added
+        - dots
+        - fix readme
+    3. Find zuboa:
+        - README added
+        - fix readme
